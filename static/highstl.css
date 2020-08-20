@@ -30,7 +30,6 @@ body{background:#000000 no-repeat center bottom;color:#FFFFFF;font:normal 16px/1
 .links p{color:#000000;margin:0.6em 0 0 0.5em;}
 .media{font-size:30px;text-align:center;}
 .media>a{margin-right:80px;text-decoration:none;transition:color 0.5s ease;}
-.media>a#vk{font-size:35px;}
 .media>a:last-child{margin-right:0;}
 .button {font-size: 70px;text-align: center;font-family: 'VAG World', sans-serif;line-height: 78px;color: #fff;margin: auto;margin-top: 100px;width: 350px;height: 85px;background: linear-gradient(#1d7751, #0e382c);border: 3px #25793b solid;border-radius: 5px;text-shadow: 0 0 20px rgba(255,255,255,0.3);transition: .1s;transform: scale(1);-webkit-user-select: none;box-shadow: 0 0 50px rgba(0,117,9,0.5);overflow: hidden;}
 .button:hover {text-shadow: 0 0 20px rgba(255,255,255,0.5);transform: scale(1.05);cursor:url(http://xakin.ovh/assets/cursor2.cur.html)/*tpa=http://litespace.ru/bigdante/images/cursor/cursor2.cur.html*/,pointer;} 
